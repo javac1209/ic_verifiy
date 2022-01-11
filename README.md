@@ -1,2 +1,2 @@
-# ic_verifiy
+# ic_verifiy by xs.wang
 learning ic_verifiy
