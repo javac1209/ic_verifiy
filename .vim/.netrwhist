@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/ICer/.vim/nerdtree'
+let g:netrw_dirhist_2='/home/ICer'
+let g:netrw_dirhist_1='/home/ICer/bingyao.wang/IC_tools/uvm-1.1d'
